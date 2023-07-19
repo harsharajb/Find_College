@@ -1,0 +1,2 @@
+4|Sahyadri College of Engineering & Management|60.00|150000|Mangalore|9658745236|sahyadri@sahyadri.edu|www.sahyadri.com
+8|ajiet|50.0|40000|Mangalore|9876543211|ajiet@gmail.com|ajiet.in
